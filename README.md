@@ -16,7 +16,7 @@ The various technologies and areas I am currently focusing on are:
 
 In addition to my continuous learning through courses and university, I have acquired knowledge in various technologies and tools, including:
 
-- **Programming and Tools**: Experience in Python, C++, MATLAB, Java, JavaScript, SQL, and SPSS acquired during college.
+- **Programming and Tools**: Experience in Python, C++, MATLAB, Java, JavaScript, SQL and SPSS acquired during college
 - **Visual Studio Code & Jupiter Notebook**: IDEs for development
 - **Project Management**: Project management skills developed through professional experience
 - **Process Efficiencies**: Enhanced process efficiency with professional experience
